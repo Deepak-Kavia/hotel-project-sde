@@ -1,0 +1,18 @@
+.mainContainer{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0 20px;
+}
+.container1 {
+    width: 100%;
+    max-width: 974px;
+    display: flex;
+    flex-direction: column;
+}
+
+.homestaysTitle {
+    text-align: left;
+    margin: 45px 0 20px 0;
+}
+
